@@ -1,0 +1,18 @@
+#h-one {
+  color: azure;
+}
+
+.card {
+  background-color: darkgrey;
+  width: 500px;
+}
+
+.d-1 {
+  padding: 40px;
+}
+section {
+  display: flex;
+  flex-direction: row-reverse;
+  align-items: center;
+  justify-content: center;
+}
